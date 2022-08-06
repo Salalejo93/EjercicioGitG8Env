@@ -1,2 +1,2 @@
 hola mundo
-Mi nombre es Alejandro Rodriguez
+Mi nombre es Alejandro Rodriguez y soy uno de los colaboradores de este repositorio
